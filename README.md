@@ -37,7 +37,7 @@ This dataset was obtained from Kaggle repository as a part of Hackathon conducte
 	* **date_time**: DateTime Hour of the data collected in local CST time.   
 	* **traffic_volume**: Numeric Hourly I-94 ATR 301 reported westbound traffic volume.   
 	
- #   Column               Non-Null Count  Dtype  
+ *** #   Column               Non-Null Count  Dtype***  
 ---  ------               --------------  -----  
  0   traffic_volume       27411 non-null  float64
  1   holiday              27377 non-null  object 
