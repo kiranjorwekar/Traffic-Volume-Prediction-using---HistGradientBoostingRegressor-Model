@@ -36,18 +36,19 @@ This dataset was obtained from Kaggle repository as a part of Hackathon conducte
 	* **weather_description**: Categorical Longer textual description of the current weather.  
 	* **date_time**: DateTime Hour of the data collected in local CST time.   
 	* **traffic_volume**: Numeric Hourly I-94 ATR 301 reported westbound traffic volume.   
-	
- *** #   Column               Non-Null Count  Dtype***  
----  ------               --------------  -----  
- 0   traffic_volume       27411 non-null  float64
- 1   holiday              27377 non-null  object 
- 2   temp                 27395 non-null  float64
- 3   rain_1h              27488 non-null  float64
- 4   snow_1h              27404 non-null  float64
- 5   clouds_all           27350 non-null  float64
- 6   weather_main         27360 non-null  object 
- 7   weather_description  27392 non-null  object 
- 8   date_time            30414 non-null  object
+
+| # | Column              | Non-Null         | Count         | Dtype         |
+| --| --------------------|------------------| --------------| --------------|  
+| 0 | traffic_volume      | non-null         | 27411         | float64       |  
+| 1 | holiday             | non-null         | 27377         | object        |  
+| 2 | temp                | non-null         | 27395         | float64       |  
+| 3 | rain_1h             | non-null         | 27488         | float64       |  
+| 4 | snow_1h             | non-null         | 27404         | float64       |  
+| 5 | clouds_all          | non-null         | 27350         | float64       |  
+| 6 | weather_main        | non-null         | 27360         | object        |  
+| 7 | weather_description | non-null         | 27392         | object        |  
+| 8 | date_time           | non-null         | 30414         | object        |  
+
 
 ## Evaluation and Results
 After 
