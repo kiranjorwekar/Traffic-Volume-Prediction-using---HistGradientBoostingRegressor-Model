@@ -27,9 +27,9 @@ This dataset was obtained from Kaggle repository as a part of Hackathon conducte
 - [Traffic Volume Prediction](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html#sklearn-ensemble-histgradientboostingregressor)
 - 30415 samples
 - 9 Input Features: 
-    - Data columns (total 9 columns):
-	holiday: Categorical US National holidays plus regional holiday, Minnesota State Fair
-	temp: Numeric Average temp in kelvin
+    - Data columns (total 9 columns):  
+	holiday: Categorical US National holidays plus regional holiday, Minnesota State Fair.  
+	temp: Numeric Average temp in kelvin.   
 	rain_1h: Numeric Amount in mm of rain that occurred in the hour
 	snow_1h: Numeric Amount in mm of snow that occurred in the hour
 	clouds_all: Numeric Percentage of cloud cover
